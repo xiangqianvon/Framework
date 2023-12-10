@@ -1,0 +1,7 @@
+__pycache__/
+.azure/
+.vscode/
+.github/
+*.pkl
+.env
+upload.pdf

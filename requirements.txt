@@ -1,0 +1,16 @@
+flask
+virtualenv
+pdfplumber
+pandas
+openai
+requests
+flask-cors
+matplotlib
+scipy
+plotly
+scikit-learn
+llama_index
+torch
+torchvision
+torchaudio
+gunicorn==20.1.0
